@@ -1,4 +1,23 @@
-p {
-	font-size: 10px;
-	color: red;
+
+
+.row-map{
+	float:left;
+	margin-bottom:2px;
+}
+
+.clear{
+	clear:both;
+}
+
+.map{
+	width: 60px;
+	height: 60px;
+	background-color: red;
+	float: left;
+	margin-left: 2px;
+}
+
+#comodo_img{
+	width: 60px;
+	height: 60px;
 }
