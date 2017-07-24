@@ -158,7 +158,7 @@
 				</div>
 				
 				<div class="map" id="prt_fild00">
-					<img class="map" id="img_size" src="files/img/world/prt_fild00.png"/>
+					<img class="map" id="img_size" src="files/img/world/pronterafields/prt_fild00.png"/>
 				</div>
 				
 				<div class="map" id="mjolnir_09">
