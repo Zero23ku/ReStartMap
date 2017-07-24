@@ -114,20 +114,53 @@
 			</div>
 			<div class="clear"></div>
 			<div class="row-map">
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
+				<div class="map" id="glast_01">
+					<img class="map" id="img_size" src="files/img/world/glastheim/glast_01.png"/>
+				</div>
+				
+				<div class="map" id="gef_fild06">
+					<img class="map" id="img_size" src="files/img/world/geffenfields/gef_fild06.png"/>
+				</div>
+				
+				<div class="map" id="gef_fild05">
+					<img class="map" id="img_size" src="files/img/world/geffenfields/gef_fild05.png"/>
+				</div>
+				
+				<div class="map" id="gef_fild04">
+					<img class="map" id="img_size" src="files/img/world/geffenfields/gef_fild04.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_06">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_06.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_07">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_07.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_08">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_08.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_10">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_10.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_11">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_11.png"/>
+				</div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
+				
 				<div class="map"></div>
 			</div>
 			<div class="clear"></div>
