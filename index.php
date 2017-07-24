@@ -6,74 +6,112 @@
 	<body>
 		<div id="map-container">
 			<div class="row-map">
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
+				<div class="map" id="yuno">
+					<img class="map" id="img_size" src="files/img/world/yunofields/yuno.png"/>
+				</div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-			</div>
-			<div class="clear"></div>
-			<div class="row-map">
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-			</div>
-			<div class="clear"></div>
-			<div class="row-map">
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
+				
 				<div class="map"></div>
 			</div>
 			<div class="clear"></div>
 			<div class="row-map">
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
+				<div class="map" id="yuno_fild04">
+					<img class="map" id="img_size" src="files/img/world/yunofields/yuno_fild04.png"/>
+				</div>
+				
+
+				<div class="map" id="yuno_fild03">
+					<img class="map" id="img_size" src="files/img/world/yunofields/yuno_fild03.png"/>
+				</div>
+				
+				<div class="map" id="yuno_fild02">
+					<img class="map" id="img_size" src="files/img/world/yunofields/yuno_fild02.png"/>
+				</div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="row-map">
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map" id="yuno_fild01">
+					<img class="map" id="img_size" src="files/img/world/yunofields/yuno_fild01.png"/>
+				</div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
 				<div class="map"></div>
 			</div>
 			<div class="clear"></div>
@@ -103,6 +141,42 @@
 				
 				<div class="map" id="aldebaran">
 					<img class="map" id="img_size" src="files/img/world/aldebaranfields/aldebaran.png"/>
+				</div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="row-map">
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+				
+				<div class="map"></div>
+
+				
+				<div class="map" id="mjolnir_12">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_12.png"/>
 				</div>
 				
 				<div class="map"></div>
