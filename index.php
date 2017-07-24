@@ -78,38 +78,82 @@
 			</div>
 			<div class="clear"></div>
 			<div class="row-map">
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
+				<div class="map" id="alde_gld">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/alde_gld.png"/>
+				</div>
+				
+				<div class="map" id="aldebaran">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/aldebaran.png"/>
+				</div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
+				
 				<div class="map"></div>
 			</div>
 			<div class="clear"></div>
 			<div class="row-map">
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
+				<div class="map" id="mjolnir_01">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_01.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_02">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_02.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_03">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_03.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_04">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_04.png"/>
+				</div>
+				
+				<div class="map" id="mjolnir_05">
+					<img class="map" id="img_size" src="files/img/world/aldebaranfields/mjolnir_05.png"/>
+				</div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
+				
 				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
-				<div class="map"></div>
+				
 				<div class="map"></div>
 			</div>
 			<div class="clear"></div>
