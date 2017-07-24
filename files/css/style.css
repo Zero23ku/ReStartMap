@@ -2,7 +2,6 @@
 
 .row-map{
 	float:left;
-	margin-bottom:2px;
 }
 
 .clear{
@@ -12,7 +11,6 @@
 .map{
 	background-color: black;
 	float: left;
-	margin-left: 2px;
 }
 
 .img_size, .map{
@@ -20,7 +18,16 @@
 	height: 60px;
 }
 
-#comodo_img{
-	width: 60px;
-	height: 60px;
+#map-container{
+	margin-left: 15px;
+}
+
+#map-container,#form-container{
+	float:left;
+}
+
+#form-container{
+	width: auto;
+	height: auto;
+	margin-left: 15px;
 }
