@@ -10,11 +10,14 @@
 }
 
 .map{
-	width: 60px;
-	height: 60px;
-	background-color: red;
+	background-color: black;
 	float: left;
 	margin-left: 2px;
+}
+
+.img_size, .map{
+	width: 60px;
+	height: 60px;
 }
 
 #comodo_img{
